@@ -1,0 +1,1 @@
+A boostrap 5 templated mock dashboard designed with features such as forms,nav bar ,side bar,drop down ,cards and more and also boostrap 5 has some new aligment features like margin alignment and more and also a minimal amount of css used for required layout rendering
